@@ -4,4 +4,6 @@ Introduction/Business Problem:
 
 I work for a consultancy firm and we take projects from clients mostly whom want help to open a new business. The case I will be looking in this analysis is one of a study to open a bakery in Manhattan, NY. The study consists in numerous stages. I will participate in the location stage, in which we will study the best neighborhood to open the bakery.
 
+Data:
 
+For this problem I will use the Foursquare location and the data of Manhattan neighborhoods.
