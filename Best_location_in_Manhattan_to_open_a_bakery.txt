@@ -7,3 +7,26 @@ I work for a consultancy firm and we take projects from clients mostly whom want
 Data:
 
 For this problem I will use the Foursquare location and the data of Manhattan neighborhoods.
+
+Methodology:
+
+The methodology used for this analysis consisted in a exploratory analysis and a clustering using k Ð means.
+
+We are using clustering to understand the similarity between neighborhoods choosing one with the minimal competitors but similar to other neighborhoods in the same cluster.
+
+Results:
+
+In the analysis we found that the best possible neighborhoods for opening a bakery in Manhattan are Clinton, Murray Hill, East Village, Lower East Side, Financial District, Midtown South and Flatiron.
+
+Discussion:
+
+In the analysis we found the most common venues in all the neighborhoods. This analysis helps a lot to find the competitors.
+
+Conclusion:
+
+In the analysis we found that the best possible neighborhoods after separating them into clusters. They mean that the interests of consumers are similar in the clusters so we should open a bakery in a cluster of the neighborhoods that have the most bakeries. 
+
+We found that the options are Manhattan are Clinton, Murray Hill, East Village, Lower East Side, Financial District, Midtown South and Flatiron.
+
+The choice will depend on more analysis of other factors, but we were able to reduce significantly the number of options.
+
